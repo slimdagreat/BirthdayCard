@@ -1,0 +1,55 @@
+body{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+	border-width: 20px;
+	border-style: solid;
+	border-color: #D93541;
+	text-align: center;
+}
+
+a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#header{
+	font-size: 68px;
+	margin-top: 50px;
+	font-weight: normal;
+}
+
+#box{
+	border-radius: 5px;
+	height: 40px;
+	width: 335px;
+	background-color: #CCC8C8;
+	font-size: 20px;
+	color: #FFFFFF;
+	margin: 0 auto;
+	padding-top: 15px;
+	margin-bottom: 50px;
+}
+}
+
+#msg{
+	font-style: italic;
+	font-size: 36px;
+	color: #F12469;
+	margin-top: 50px;
+}
+
+#button{
+	border-radius: 30px;
+	height: 40px;
+	width: 335px;
+	background-color: #D93541;
+	font-size: 20px;
+	color: #FFFFFF;
+	margin: 0 auto;
+	padding-top: 15px;
+	margin-bottom: 50px;
+}
+
+img{
+	width: 350px;
+	height: 350px;
+}
